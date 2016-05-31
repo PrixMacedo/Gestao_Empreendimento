@@ -1,0 +1,8 @@
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\bin\visao_geral.dll
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\bin\visao_geral.pdb
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\bin\visao_geral.xml
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\obj\Debug\visao_geral.Resources.resources
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\obj\Debug\visao_geral.vbproj.GenerateResource.Cache
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\obj\Debug\visao_geral.dll
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\obj\Debug\visao_geral.xml
+C:\Users\Scyla\Documents\Visual Studio 2012\Projects\visao_geral\visao_geral\obj\Debug\visao_geral.pdb
